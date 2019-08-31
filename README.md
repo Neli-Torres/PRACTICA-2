@@ -1,6 +1,7 @@
 # PRACTICA-2
 
 CODIGO 1.2
+
 row_1 = ['Facebook', 0.0, 'USD', 2974676, 3.5]
 
 row_2 = ['Instagram', 0.0, 'USD', 2161558, 4.5]
